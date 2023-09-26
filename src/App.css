@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.weatherDescptn li {
+  list-style: none;
+  text-align: center;
+}
+
+.weatherDescptn ul {
+  padding: 0;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
