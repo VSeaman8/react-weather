@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noreferrer"
         >
-          Open Sourced
+          Open Sourced{" "}
         </a>
         by Vicki Seaman
       </footer>
